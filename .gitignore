@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+*.pt
+*.onnx
+*.engine
+*.plan
+runs/
+failures/
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
